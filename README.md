@@ -20,7 +20,7 @@ ________________________________________________________________________________
 <p>- User can create Notes</p>
 <p>- User will be able to log out from the account</p>
 <p>- The application will have styling</p>
-<p>- User will be able to view the list of notes</p>
+<p>- User will be able to view their created notes</p>
 
 
 <h3>Features:</h3>
