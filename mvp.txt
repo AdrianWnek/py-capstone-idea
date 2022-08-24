@@ -1,0 +1,32 @@
+_______________________________
+
+#### ######## ############ ####
+#### CAPSTONE REQUIREMENTS ####
+#### ######## ############ ####
+_______________________________
+
+Front-End:---------> HTML,CSS
+Server:---------> Flask
+Database:---------> Postgres, Three features & CRUD
+
+
+
+
+Pitch/Idea:
+- I will be creating a web application that allows Users to access the website by using Registration, Login & Password.
+  with this idea Users will be directed to the home page where the they can add their own personal notes.
+
+
+MVP:
+- User will be able to login with email and password
+- User will be directed to the home page after succesfull login
+- User can create Notes
+- User will be able to log out from the account
+- The application will have styling
+
+
+Three Features:
+- Notification will appear when succesfully registered
+- User will be able to view the list of notes
+- User can delete Notes
+
