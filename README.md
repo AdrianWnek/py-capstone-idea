@@ -1,12 +1,11 @@
-<h4>#### ######## ############ ####</h4>
-<h4>#### CAPSTONE REQUIREMENTS ####</h4>
-<h4>#### ######## ############ ####</h4>
-
-<h2>| HTML | CSS | FLASK | PostgreSQL | CRUD | Features |</h2>
+<h4>#### ######## ######### ####</h4>
+<h4>#### CAPSTONE IDEA ####</h4>
+<h4>#### ######## #########</h4>
+<h2>FRONT-END & BACK-END</h2>
 ________________________________________________________________________________________________________________________________
 
 <h4>Name of App</h4>
-<h1>WriteDownTextBook.com</h1>
+<h1>My TextBook.com</h1>
 (Not a real link)
 
 <h3>Pitch/Idea:</h3>
